@@ -1,0 +1,128 @@
+name,id,popularity,duration_ms,album,album_id,artist,artist_id,speechiness,valence,mode,liveness,key,danceability,loudness,acousticness,instrumentalness,energy,tempo
+Saci,0JODkg3g4Pn6MgeNyaARlF,47,177773,O Futuro Não Demora,195RDcBkD9dUqWBO75eCgQ,BaianaSystem,5JHYuwE2n7bleXMUsmtCW5,0.103,0.683,1,0.172,7,0.799,-6.306,0.204,0.0,0.844,131.025
+Banho de Piscina,07kheaZYNntb1toMYiZK4O,37,202213,Problema Meu,0IBlkonuP9NcFl5lSYZj2q,Clarice Falcão,1wFTlPjO7zRtvylmu5pm1d,0.0326,0.7,0,0.0736,9,0.653,-5.103,0.263,0.0,0.707,126.034
+Você Não Presta,253rM8bzLuRZSH8N5Z3yox,52,235128,Vem,5rCOOZsVbPWwuAVKrA5Xug,Mallu Magalhães,1m00QT2CkW6rHi4dly8rVN,0.0667,0.825,0,0.114,10,0.604,-6.596,0.184,1.09e-06,0.658,168.12
+O Baile de Betinha,4aYvf6sss8oMFBfPt4vobj,41,240026,Carnaval no Inferno,1qszO8u8B0lDg4PMGY5Scy,Banda Eddie,60nL5yXKnZlC4wheEmmBoO,0.0974,0.944,1,0.0727,9,0.626,-7.925,0.0801,1.18e-05,0.854,174.65
+Sublime,4eSjkLKo82UM5sQEwA72jw,38,283137,A Pele do Futuro,1K9kdxE8GhOHuOnFYxoBco,Gal Costa,1b8kpp4DUwt1hWaxTiWQhD,0.0293,0.759,1,0.122,5,0.694,-9.437,0.0176,7.88e-06,0.703,126.037
+O Ficar e o Ir da Gente,6xqdwJMABha0JKNDXAc7gC,44,198493,A Última Palavra Feche a Porta,2E9VQ5EW1vSPOTuWvmJ2JS,Plutão Já Foi Planeta,2Q9b1jENJLIp5qlPclJpbV,0.0371,0.548,0,0.175,0,0.636,-5.739,0.109,0.000104,0.736,134.94
+O Paulista,6STGMDRzIe8eENdjlUMSNb,39,227775,10% Alien,2mVs1yaymPdysE6v0BJ1fg,Codinome Winchester,0oxzuDPaVqVeGDKQfp36QZ,0.0473,0.683,1,0.101,3,0.621,-3.919,0.00285,0.0,0.883,131.056
+Eu Vim Passear,5eOLZh5Hdn7cQUwxQmIC3n,41,201506,Maravilhas da Vida Moderna,5x6uNZEzkJ78HK4Tg5UvKU,Dingo Bells,3pnpaEYzaDj5zJluhXbVrG,0.0435,0.8,1,0.23,11,0.696,-8.264,0.274,0.00143,0.608,122.824
+Só + 6,4qQcp2MPEHW0FLPVlcnoVS,36,237000,Tem Conserto,3BadtozmDwX3iQUSEhnM4N,Clarice Falcão,1wFTlPjO7zRtvylmu5pm1d,0.0308,0.191,1,0.104,1,0.704,-7.03,0.104,0.343,0.696,130.029
+Bédi Beat,7qaYhfTkekBcIm8q9Mewjd,60,200325,Sinto Muito,5fu7gooH6bp15cPuYGfGvx,DUDA BEAT,2QLSJqqGIstNbO6nYRR16o,0.0353,0.815,0,0.43,5,0.76,-7.159,0.00538,0.00582,0.756,130.0
+Festa do Tubarão,6jbAJcMYNBXw00cbIVL4S2,22,202973,Rebujo,6z6Ap5lqHAIwgLJPv2HKu7,Dona Onete,5A70LBFCFtNwOmbPj5g5uc,0.0851,0.959,1,0.0799,10,0.801,-10.7,0.185,1.58e-06,0.799,144.924
+Dança Diferente,6RyWmYt2GU3syQCDu1nczh,44,214771,Iii,3XZMipSwL561QdT16xAkI4,Maglore,24me6m3bV7l2rnUwaXV0Tj,0.0355,0.666,1,0.1,8,0.602,-3.989,0.017,0.000898,0.804,124.998
+Caixa Postal (Tum Tum),5wTfidvFtI6WOFA3zSxrER,42,204375,Caixa Postal (Tum Tum),5Xmh6APJg1l5dxvYdSm91J,ÀTTØØXXÁ,43jyzP3h86XvtC8FQm4ow3,0.0548,0.342,1,0.0996,8,0.8,-3.865,0.561,2.59e-05,0.672,127.822
+Morada Boa Featuring Nina Miranda,5x4KSfOm9Bc1ugelLYe4AG,33,226626,3 Na Massa,5scnXOM54hVJw0mkDgBGs8,3 Na Massa,1swmzlKgFluITKhxSV9ixX,0.0369,0.494,1,0.135,0,0.614,-7.928,0.541,0.0275,0.591,153.983
+Amor Distrai (Durin),35uJY6hTXIoskRq4VGHy52,47,219132,Tônus,1hvL0H8bXnyz8lgZHzztxs,Carne Doce,01F64hXfIisZbwBf1VCwQT,0.0355,0.795,1,0.117,2,0.719,-8.877,0.173,0.189,0.748,151.981
+Leve - Manimal Remix,0YK71rSArDeNp5HcllHnDg,49,145161,Leve (Manimal Remix),0hOnjROOEJXYH3QElVhctS,Mahmundi,6hfNZcbKvjpOnhhkFVKyt7,0.0441,0.135,1,0.0913,5,0.68,-6.901,0.339,0.49,0.623,124.035
+Já Sei Namorar,2GplG03rw0CN2EMLzPJZAl,63,196986,Tribalistas,7tkP1p2yTttMg2SY45nB5Y,Tribalistas,4laQz4PaKeh2Hu6QL6evVD,0.057,0.833,0,0.132,9,0.67,-6.687,0.67,0.00115,0.822,145.56
+Dois Cafés,7C9d5quPpujejTGzk3dxa4,44,203266,Tudo Tanto,76EOuAM561jQh5bYjjcZcJ,Tulipa Ruiz,6OokCpvxnYv43WcFqejMLb,0.03,0.688,1,0.171,5,0.761,-9.542,0.406,0.000227,0.645,132.053
+Varanda Suspensa,1GpCZ2VpFKuuVGIZq12dum,53,288200,Tropix,3OjQpMNunvljKP0tFVGip4,Céu,2eFVsaX3yHLPeWpiqvmeFn,0.0434,0.964,1,0.0733,3,0.778,-6.812,0.124,0.428,0.751,139.979
+Compacto,66oYPCeJsdITBXc1HBazgd,27,206773,JapanPopShow,2Hs9YfmASINO0UlHPVqjgb,Curumin,1W1k6LUPDR0l4zwvKR4YLI,0.0467,0.965,0,0.135,1,0.731,-6.153,0.346,0.00804,0.813,150.117
+Defeito 14: Xiquexique,22zteU3NQ8z1nMu0irI9kY,37,329640,Com Defeito de Fabricação / Fabrication Defect,5dKBMmg1NpAgTSkSAKNXIt,Tom Zé,1gIa65d5ICT2xVWiUJ3u27,0.0455,0.845,1,0.277,2,0.787,-9.96,0.175,0.00662,0.899,104.945
+Bat Macumba,1R0e4UjiRmtWIAoWJx334e,37,190453,"""Os Mutantes""",0RBkIFbQy91qv8Tqja20og,Os Mutantes,5C0gCCG8N5Dh5dZytIgzLX,0.208,0.683,1,0.106,6,0.602,-2.596,0.0979,0.00263,0.928,122.485
+Oração Ao Tempo - Remixed Original Album,7oz1o6N5NDdTXQCZSfB3SO,51,206906,Cinema Transcendental,64JvR5shy7j04mTiX0wfNp,Caetano Veloso,7HGNYPmbDrMkylWqeFCOIQ,0.0509,0.704,1,0.08,2,0.63,-13.251,0.838,0.00027,0.223,152.5
+Um Girassol Da Cor Do Seu Cabelo,0ElgcjFAHHj9ZvQfTOWm7v,19,252800,Clube Da Esquina,7Hk9jGHupUwHa0JXQr8m0F,Lô Borges,1mZbRiSVb2ExneAlDbBiiT,0.0325,0.204,0,0.146,9,0.32,-17.81,0.549,2.86e-05,0.264,142.292
+Brasil Pandeiro,2Er0f1mhO0g1rov9Cdi5Wk,52,235106,Acabou Chorare,5pIlMNPZh4D9iJSoCfMzGi,Novos Baianos,2ohBjgFT9V0LRDWO2wF9DJ,0.0344,0.876,1,0.117,11,0.549,-7.144,0.791,0.000311,0.555,97.724
+Chega de Saudade,0N9KcaiKqwxYqOz86XZ44e,9,122773,"Chega de Saudade - O Amor, O Sorriso, E a Flor",5b9rdkWhGa7fSo3IGNrRnE,João Gilberto,77ZUbcdoU5KCPHNUl8bgQy,0.0362,0.736,1,0.23,2,0.567,-13.165,0.72,0.0,0.273,88.531
+Sangue latino,4xWKYStXoKsDkekko5vQb3,38,129693,Dois Momentos,26i7FPUjLKVudgpPzftDtf,Secos & Molhados,4EKJxXaAZapG14Q5FTZoxm,0.0295,0.905,1,0.16,2,0.574,-9.786,0.256,0.00072,0.389,133.661
+Réu Confesso,3BpiaGyTIb7VIoAYbvSzTH,60,217604,Tim Maia 1973,6gK1Uf1uZolqGBibGaW5qK,Tim Maia,0jOs0wnXCu1bGGP7kh5uIu,0.0522,0.758,1,0.292,0,0.536,-9.89,0.0539,0.0051,0.766,87.893
+Monólogo ao Pé do Ouvido (Vinheta) / Banditismo por uma Questão de Classe,3ebl2YJxekBDHH1ZOHauQe,41,307026,Da Lama Ao Caos,0W6hOSkA2g1BAXvwHUw7ds,Chico Science,7HnkRhoGqYLTasI52iJoE7,0.0433,0.629,0,0.065,4,0.714,-9.242,0.00217,0.00059,0.838,115.0
+Alucinacao,6lCcA1ugWuQPBCHXecSwc8,55,294360,Alucinacao,2AwtTIdUFaUl69alioeFut,Belchior,0C8HhyOa7zfzIl3gmPjY52,0.0564,0.606,1,0.067,7,0.541,-18.603,0.418,0.0,0.334,101.622
+O Xote das Meninas,0V7iPl67ctA3MioAzO2ae5,48,171040,Luiz Gonzaga Canta Seus Sucessos Com Zé Dantas,7gQBkiyV2o2NPEHhafVVGw,Luiz Gonzaga,2ZofT7n9AlTKf7KDCoHGgD,0.0582,0.867,0,0.151,4,0.7,-8.622,0.599,0.0,0.509,155.707
+Dois Navegantes,4aEbt7w8bcAQMYhabSVJUM,35,256000,Ave Sangria,2Kds5PBWka7pcAIay7qp6w,Ave Sangria,1q3J12DzCpwW0EwLrKlXvC,0.0307,0.471,0,0.213,2,0.368,-7.935,0.0291,5.32e-05,0.495,117.639
+Pelas Ruas Que Andei,7HzD4Yj9nI7dlDliObcoGy,28,167533,20 Grandes Sucessos De Alceu Valença,5zSPeLOror6UiYeodh4Bs9,Alceu Valença,559vxOLTzlAv0zB77JMcdG,0.134,0.663,1,0.267,2,0.606,-7.629,0.35,1.72e-06,0.821,114.049
+Acorda Amor,1WLmDv4iF7ZSH3TLSh6c7p,36,140640,Sinal Fechado,2dRFjONWIvPynA4mlX02Ru,Chico Buarque,6tOsSffQQIXmK8TqsDck8t,0.0824,0.557,1,0.126,7,0.518,-13.136,0.28,0.000119,0.514,87.328
+Sereníssima,10F7heFOB5AW5YNQdJPKnq,39,241733,Legiao Urbana V,1MukPW9kcaydlq29KX2OUk,Legião Urbana,6tw6EpC9RgmSRZiZg0n22t,0.0342,0.86,1,0.355,7,0.376,-13.587,0.00795,0.00435,0.768,174.135
+Sentimental,6Zv4HVHfadVo3JQSSbwY7r,58,309266,Bloco Do Eu Sozinho,002IhaQrqlVoyLhsTlzLd8,Los Hermanos,7Brxri4l1ATShikyHXsEr6,0.0287,0.24,1,0.112,6,0.646,-10.214,0.124,0.0119,0.384,128.009
+Canto De Ossanha,76bNcEBsBn8gbzwcU1QlRK,49,204293,Os Afro - Sambas De Baden E Vinícius,7ArWgeKnsNsaOyvFl2yNYd,Baden Powell,0VSgciOd32tP2Yna1w4vDr,0.0453,0.698,0,0.129,9,0.469,-13.093,0.544,0.0,0.503,86.447
+Tiro Ao Álvaro,7fTTRW3YFXrTvDGONhKM1G,39,163266,Talento,7aF1VlYT78LXObhKKX0kiT,Elis Regina,0yFvXd36g5sNKYDi0Kkvl8,0.077,0.896,1,0.0493,10,0.571,-8.865,0.275,0.0,0.597,93.593
+Preciso Me Encontrar,1op7nM2R2M6FAU6dSCTRWV,59,179933,Raizes Do Samba,0i9SwtLwZ8cOuH5qtkwTvT,Cartola,0RSWHhBUwW7lhCqXqxKxWN,0.0665,0.679,0,0.306,2,0.563,-13.814,0.913,0.0054,0.425,77.209
+Pavão misterioso,0Yu8ijqJ6zEeSOJGE64TP6,39,246226,Pessoal do Ceará,5gDpEwRnN3cOapY75YtTwd,Ednardo,3ADrIjXLfh308ALr2WQXkI,0.052,0.347,1,0.184,9,0.78,-8.334,0.429,0.0,0.513,119.999
+I Know It's Over - 2011 Remaster,3M2bD9SMYnJIPdrTKUnBd3,61,349186,The Queen Is Dead,5Y0p2XCgRRIjna91aQE8q7,The Smiths,3yY2gUcIsjMr8hjo51PoJ8,0.0318,0.404,1,0.234,0,0.407,-10.583,0.0847,0.0,0.424,113.311
+Água Viva,1NNoZ5EQQzL0sRBojHUn0i,17,226906,Ômega III,5Sit6wURv9DdRWa3I56vEM,Sara Não Tem Nome,31HTzBU95YF2eY7oXK92vM,0.0327,0.163,0,0.134,2,0.443,-7.364,0.0414,0.0132,0.564,75.987
+L'amour,7I4so9XdYo6dT0Z8y6JW10,1,188000,Quelqu'un m'a dit,3oiyY2bRuPmcAzlii8O6Um,Carla Bruni,1HVwzNriKEjaeE06okqSpx,0.0963,0.41,1,0.109,6,0.488,-10.944,0.887,0.00153,0.298,204.163
+Everlasting Light,3OYPskZPKnOcHZ9fUDwmCK,50,204626,Brothers (Deluxe Edition),0gVxPZ2tcMgyzLxyw8k1z7,The Black Keys,7mnBLXK823vNxN3UWB7Gfz,0.0366,0.731,1,0.366,4,0.775,-6.592,0.124,0.0196,0.579,90.461
+Silly Love Songs - Remastered 2014,3uiMBldZ07pW0ySHDX5gzE,56,354240,At The Speed Of Sound (Deluxe / Remastered),3eN0kcFvDvdpjAvv1qZa4D,Wings,3sFhA6G1N0gG1pszb6kk1m,0.034,0.806,1,0.284,0,0.743,-10.774,0.14,0.0861,0.473,125.041
+I Found You,4gdJnDmtX8gNVrb25dmRj2,50,179653,Boys & Girls,0YcQyzstsSbcnLCk4h7AUh,Alabama Shakes,16GcWuvvybAoaHr0NqT8Eh,0.037,0.235,1,0.122,7,0.446,-4.654,0.231,0.028,0.76,109.867
+Sozinho - Live In Brazil / 1998,3usVf6rhG6vDjcodeavHde,3,190496,Prenda Minha (Live),2otDSYSZagg17sFl6lTApN,Caetano Veloso,7HGNYPmbDrMkylWqeFCOIQ,0.187,0.529,0,0.909,11,0.48,-14.762,0.634,0.000168,0.283,83.736
+Cannons,1tgLMyNVmgtLJcOfE0wbyJ,52,224773,The Year of Hibernation,7jG32gfkuo10qarPgmWC7q,Youth Lagoon,1Z2KInfSmPOzAIYyiaXeti,0.0296,0.179,1,0.13,1,0.531,-5.063,0.631,0.922,0.719,75.001
+Sleep Apnea,7H4AhGitjSmRZxKMaeH9wX,4,146293,Clash The Truth,40TgysF80nR70X6NCIvSHz,Beach Fossils,1bwUhKRmEkOZ1wuTnV9XjC,0.0268,0.495,1,0.138,2,0.552,-10.63,0.139,0.861,0.686,79.983
+Shadow,0o1N4jfVOXErcR82UKxfO8,48,258779,Nocturne,7xVdAgW8GzXIbmyfwGa9M9,Wild Nothing,6NrkINd80slV25wkBu9mEB,0.03,0.595,1,0.127,8,0.45,-9.569,0.109,0.865,0.724,138.065
+Darling,36PQh1G6h7n9VWB799fXpI,66,260386,In Mind,7IQn4jT1WciC5O9DZrxeKv,Real Estate,41SQP16hv1TioVYqdckmxT,0.0265,0.572,1,0.104,0,0.596,-5.407,0.00878,0.00659,0.894,132.994
+Under The Pressure,45D0ixQWzXQOoU1S9aSnKk,61,532306,Lost In The Dream,14xxjLlbGy8ACm4MorBjD5,The War On Drugs,6g0mn3tzAds6aVeUYRsryU,0.0295,0.193,1,0.132,6,0.325,-6.545,0.307,0.172,0.71,134.371
+Esú,5ea2KYH2Daek1T2Ny20VHH,0,248000,Esú,5PfD0w4g151QztOQO3TIg5,Baco Exu do Blues,78nr1pVnDR7qZH6QbVMYZf,0.0941,0.348,1,0.186,2,0.743,-7.244,0.0501,0.0,0.804,120.006
+Sujeito De Sorte,1UsAjRCSavihMYsspqJz4e,58,196560,Alucinacao,2AwtTIdUFaUl69alioeFut,Belchior,0C8HhyOa7zfzIl3gmPjY52,0.0988,0.442,1,0.067,4,0.455,-19.041,0.291,0.000235,0.407,167.385
+Knee Socks,0pKrMTlDlW54abYkdBsgxj,1,257573,AM,41vPD50kQ7JeamkxQW7Vuy,Arctic Monkeys,7Ln80lUS6He07XvHI8qqHH,0.0339,0.549,0,0.339,11,0.669,-8.322,0.137,0.00374,0.54,97.993
+Benny Knows,4Gt3j5ywCt2JYG0VpbEHRy,23,135008,Toon Time Raw!,0XV1VSL3mcpWODjNIf41Eo,Jerry Paper,2gzxBoK71ohENPlxlshHV7,0.0344,0.218,0,0.129,6,0.281,-11.702,0.973,0.292,0.178,80.453
+Slow,3tg4YRULeUmUfMzwbvdBl7,38,174695,In the Shower,0mWXQOrqbigpDUGfnbW7ez,HOMESHAKE,4DMSJzGjw2SMkKAT5EEE5u,0.0289,0.491,0,0.187,10,0.232,-7.495,0.0725,0.00456,0.618,88.171
+Convergência,6Haj1dIdr0utv95CheG5u6,9,147536,Onde Anda Chico Flores?,5i2A5i0yytyLu6ZLOqrQh0,Não ao Futebol Moderno,4k7aDO0205tCEvFKuck7L0,0.0291,0.131,1,0.346,0,0.543,-9.617,0.0298,0.73,0.708,109.97
+Still Beating,2N4idqj9TT3HnH2OFT9j0v,68,181586,This Old Dog,6XzoFb3hP14jVQeCMRdVJR,Mac DeMarco,3Sz7ZnJQBIHsXLUSo0OQtM,0.0417,0.469,0,0.151,1,0.709,-10.528,0.581,0.195,0.496,78.477
+16 Beat,4Wp0RVpU6dfpw56uEpGWaV,0,196026,Summer 08,5hp72ounyv98s1MMvfdfrI,Metronomy,54QMjE4toDfiCryzYWCpXX,0.0468,0.785,1,0.0716,7,0.781,-11.866,0.0186,0.586,0.812,115.001
+Heaven Or Las Vegas,1bwXRScnt3k6vSyVqcKyNj,58,298400,Heaven Or Las Vegas (Remastered),37hHXJ7xas2Nb7Jbi8ip4E,Cocteau Twins,5Wabl1lPdNOeIn0SQ5A1mp,0.0379,0.401,1,0.0808,7,0.215,-5.46,8.84e-05,0.00725,0.801,180.09
+Honestly?,4ue1k6IIQFd0BAAiOF50yi,49,370506,American Football,3wRBlpk5PRoixwOnLujTal,American Football,5FwydyGVcsQllnM4xM6jw4,0.0296,0.274,1,0.11,2,0.378,-7.766,0.00232,0.28,0.585,129.906
+Gibbon,7hECGYZwP2GGMDV1NpMpJM,33,266493,Animals,6gl4ylXxmNMpOxBImNe9n3,TTNG,5TUa95aB5Vu2CzwCnZd6t0,0.0381,0.468,0,0.04,3,0.499,-7.042,0.00468,0.0,0.563,131.819
+À Distância,67BLxClTNYBMrzdqKe3Rqr,39,218305,Animalia,7INZwXTKAJH3zzPDcDh21q,menores atos,6KNc5HwsgpYNBCPaPrg4dv,0.0457,0.477,0,0.209,3,0.581,-4.688,0.00148,0.000872,0.909,136.983
+Feel It All Around,6IE47jpPeatF2Iay7GZtEc,7,192080,Life Of Leisure,3MwrwbxsAhFCNWfjYN3YKN,Washed Out,5juOkIIy18sFw9L30syt1Z,0.0547,0.466,1,0.0678,8,0.362,-4.589,0.000163,0.677,0.752,172.241
+Wild World,1oZ76QIG2nn0reoEUC6WlJ,2,200973,The Very Best Of Cat Stevens,1YuRYS5WnSHTg95gQg6Hcc,Yusuf / Cat Stevens,08F3Y3SctIlsOEmKd6dnH8,0.0356,0.516,1,0.0931,0,0.483,-9.345,0.36,0.00073,0.509,153.457
+Heartbeat in the Brain,28CpCaV6JelmlHeGDwN9uZ,0,341906,"Whenever, If Ever",4KC9rMmPb2lcNzkzwBlmti,The World Is A Beautiful Place & I Am No Longer Afraid To Die,5bCNJ1ICzdnzK0yoCIP2Ip,0.0305,0.178,1,0.11,4,0.498,-7.553,0.0144,0.117,0.666,147.075
+Airegin,0Jobakz1eeQNwDR8ps7Oel,0,268080,The Incredible Jazz Guitar (Keepnews Collection),30mblWCqLxIB9uHZlI1VtO,Wes Montgomery,03YhcM6fxypfwckPCQV8pQ,0.0335,0.817,0,0.186,5,0.436,-13.499,0.878,0.114,0.394,147.73
+I'm Waiting For The Man - Album Version (Stereo),2J9GLqNATExevUPvpLU1Sl,7,279520,The Velvet Underground & Nico 45th Anniversary (Super Deluxe Edition),02O0Ea7JGwlLq8faAiv1MN,The Velvet Underground,1nJvji2KIlWSseXRSlNYsC,0.0451,0.861,1,0.153,7,0.682,-9.653,0.025,0.852,0.621,125.91
+Superstar,14rFvUU1QpRHTm4g2VDKXk,0,248186,Juno - Music From The Motion Picture,3Dm3Kc5oOFtesVJe5TF1HG,Sonic Youth,5UqTO8smerMvxHYA5xsXb6,0.0332,0.164,0,0.163,5,0.315,-9.687,0.0828,0.218,0.502,84.443
+"Tonight, Tonight - Remastered 2012",4iCGSi1RonREsPtfEKYj5b,14,254626,Mellon Collie And The Infinite Sadness (Remastered),4bPT6Q8ppaSNppk1kbEbLl,The Smashing Pumpkins,40Yq4vzPs9VNUrIBG5Jr2i,0.0368,0.222,1,0.237,6,0.287,-9.381,6.28e-05,0.748,0.67,148.928
+Sometimes - Remastered Version,3gGK41F7JahO3dssrEHa7X,0,319133,Loveless,20YQiWvyD8Yi7Xge7ukVrm,My Bloody Valentine,3G3Gdm0ZRAOxLrbyjfhii5,0.051,0.078,1,0.0934,7,0.352,-14.682,1.18e-05,0.883,0.61,128.483
+Piledriver waltz,3s5ogvexUgA6XjNj37zpnP,59,204880,Submarine - Original Songs From The Film By Alex Turner,3OqRGywivnQ0IeClUeUa4n,Alex Turner,1ctkBmvz80MGyi72Ix055S,0.0285,0.343,1,0.316,1,0.533,-7.861,0.119,0.612,0.748,105.921
+Fall Right In,2F63erfPWawQ2l29agdLFa,0,153485,What a Pleasure,0azt3hFbLfQ6KWhjMPZOEe,Beach Fossils,1bwUhKRmEkOZ1wuTnV9XjC,0.0483,0.796,1,0.131,0,0.57,-6.433,0.0182,0.514,0.813,139.989
+Pony,4tJbAex7f9cBWDmQm0RlSE,0,176853,V,43mIM2OHco6ctaYcsqmZAD,Wavves,6bUJpbekaIlq2fT5FMV2mQ,0.0434,0.684,1,0.138,9,0.382,-1.988,0.00269,0.0,0.955,165.023
+Here She Comes,5Lung4Ft8vuIbwHdWdvQF5,38,139706,Souvlaki,4i21O3uVh5palcfFhCjlT7,Slowdive,72X6FHxaShda0XeQw3vbeF,0.0525,0.209,1,0.113,11,0.546,-18.368,0.616,0.761,0.17,75.277
+Pale Blue Eyes,1cG560wZP0s6fs1nsEVtQw,9,339533,The Velvet Underground,6yL4IBWtYZZsYU0GboC1MN,The Velvet Underground,1nJvji2KIlWSseXRSlNYsC,0.0349,0.296,1,0.103,5,0.637,-18.759,0.911,0.00146,0.107,82.879
+Before The Beginning,2NVmpcUm2FUUQ04FlWIj2q,50,548533,The Empyrean,5ZLnZ8o2xA2cmSPYtqExl1,John Frusciante,7rN3Agir6FaZNfhf5V7mfN,0.0429,0.124,0,0.0753,4,0.239,-15.484,0.379,0.801,0.318,62.245
+Lazy Day,2DbAFVskyuVF6GhvEN0cGm,0,184866,Beach Fossils,1aWOgMITdJi9qcLDOQLf3y,Beach Fossils,1bwUhKRmEkOZ1wuTnV9XjC,0.0363,0.273,1,0.347,11,0.481,-5.182,0.418,0.914,0.831,131.929
+Everybody Hurts,5Q30xdABnojqN3wBIhrsQp,12,320266,Automatic For The People,3ImeTxETbPlg8S6cFNlova,R.E.M.,4KWTAlx2RvbpseOGMEmROg,0.0282,0.178,1,0.114,2,0.303,-10.435,0.65,0.0306,0.319,188.348
+Nantes,70WyPf8WtXvG3CgeTZZWz6,13,230200,The Flying Club Cup,1QCF6EFdBQG7WBeWznh7qC,Beirut,6pmxr66tMAePxzOLfjGNcX,0.037,0.642,1,0.138,6,0.541,-9.575,0.786,0.0102,0.533,131.147
+Chega de Saudade,0dWOiVQwoUYTtXD0VVgmJQ,48,121986,Rosa Morena,2v0e82jPJ6kjipDhCKu0Aq,João Gilberto,77ZUbcdoU5KCPHNUl8bgQy,0.0327,0.647,0,0.166,4,0.563,-16.004,0.743,0.0,0.242,87.771
+Quando Bate Aquela Saudade,76bcaYeKOKTrj9lEc9BZFU,64,394706,Pearl,25fli8PlxpP10WpirvDpMT,Rubel,0slVGXBggrLglTLNKbeEyW,0.0326,0.595,1,0.188,7,0.55,-14.133,0.895,0.0107,0.314,90.088
+Não,7EaxLW81WCgYuHSu6UBcMa,58,237586,Recomeçar,5MCqEdFGL3K7ZZavFcJdhb,Tim Bernardes,5SVFuUaS3BKAdJs6I8rVa4,0.0416,0.194,1,0.118,4,0.438,-13.709,0.822,0.0,0.0928,143.49
+Eu Vou Ter Saudades,6aujP9ajhEroYth0FlFAZM,34,209640,O Terno,5ZBujOsUQ6LDSxsDruhcdH,O Terno,2TuVzZPwEPqpstqmA0qLl6,0.036,0.229,1,0.245,9,0.326,-9.257,0.128,0.0854,0.42,135.883
+Wonderful Tonight,4qmHeQBYieqj3VMAPascsE,24,225026,Slowhand 35th Anniversary (Super Deluxe),5L3heXJfh1liiYsZyFZ22G,Eric Clapton,6PAt558ZEZl0DmdXlnjMgD,0.0295,0.508,1,0.123,7,0.57,-15.661,0.666,0.14,0.208,95.539
+Your Song,1tWiFgC2KVs6ctDOWIvUZp,0,242493,Voices from the FIFA World Cup,2SDxMQvfhjEV3D6j4VOYZ3,Elton John,3PhoLpVuITZKcymswpck5b,0.0308,0.293,1,0.099,3,0.532,-12.318,0.83,6.46e-05,0.321,128.086
+Lascado,1wsv0iNFLY3cj46CmxkX35,10,189310,Encharcado,1kIB5cMFwi7la0MrN4eGNe,Ciro e a Cidade,4JmjiyfRxKWR07QPTZwL6V,0.0604,0.573,1,0.116,7,0.714,-12.028,0.874,3.79e-05,0.367,110.175
+Nothing's Gonna Hurt You Baby,5RROFztQ7ua0p9ttJ0U8nv,3,286293,I.,5GvLhLPpP03FuLvxgdEnpj,Cigarettes After Sex,1QAJqy2dA3ihHBFIHRphZj,0.0273,0.106,1,0.107,4,0.498,-14.084,0.27,0.198,0.331,96.734
+Dias Difíceis,2b0OKkdWkFzFQ4y4wMuuNG,21,189253,Ômega III,5Sit6wURv9DdRWa3I56vEM,Sara Não Tem Nome,31HTzBU95YF2eY7oXK92vM,0.0298,0.407,0,0.135,9,0.491,-6.393,0.185,0.00116,0.611,110.059
+Daniel,6ewPNRMyIV475LyLARjQjM,47,185906,Mala,1Z69PSnbIBojgF9NBJbKca,Devendra Banhart,1YZEoYFXx4AxVv13OiOPvZ,0.0397,0.442,1,0.109,0,0.687,-13.513,0.963,0.469,0.292,119.096
+Never Meant,51R5mPcJjOnfv9lKY1u5sW,59,268333,American Football,3wRBlpk5PRoixwOnLujTal,American Football,5FwydyGVcsQllnM4xM6jw4,0.036,0.405,1,0.117,0,0.436,-6.71,0.0171,0.00882,0.819,144.26
+(Momentos) Antes de Dormir,4qGRkWTHWVlRVw2qbhLrBj,20,264889,Sobre a Vida em Comunidade,1FrHR6Un5b9ElOU0luwx0d,Mahmed,7rDPvQHBXn9NFLGejBsjVD,0.0382,0.223,0,0.111,6,0.348,-11.299,0.539,0.934,0.414,83.105
+Suicide Policeman,1Hof3Mc8SwgcmvdxLiV1nS,24,195373,Yuck (Deluxe Edition),4A5nCDuPk7HbcyvR6X0d8h,Yuck,6l3BRLCpzfC8yxqf9thWAg,0.0286,0.613,1,0.113,2,0.679,-9.024,0.249,0.0103,0.512,129.831
+Say I Want,2TbAxb9GbErawAnXepp83a,0,233088,Day by Day,4oubzbb3y6N5QzSBaRNMZD,Kung Fu Johnny,6ln0vZHFCqh1e935TsUy7S,0.0421,0.898,1,0.0673,9,0.858,-5.945,0.156,7.29e-06,0.561,85.044
+Você Não Sabe Quantas Horas Eu Passei Olhando pra Você,6pUgBKmxpYqDAzXyoCyoeF,36,221300,Repertório Infindável de Dolorosas Piadas,6X9JLA7GzqPD9UEowimbFw,Gorduratrans,5XgdNH4XKiXwbXUTytIZnX,0.0666,0.0886,1,0.176,4,0.0645,-8.651,0.175,0.603,0.637,188.242
+Talvez,5YmctaibTqJMXeDXw9u0KQ,0,128824,Monomania,5149Vq1d7rrpgN9LucKu99,Clarice Falcão,1wFTlPjO7zRtvylmu5pm1d,0.0475,0.314,0,0.111,6,0.604,-17.693,0.643,5.65e-05,0.085,70.332
+Fake Plastic Trees,045sp2JToyTaaKyXkGejPy,72,290706,The Bends,500FEaUzn8lN9zWFyZG5C2,Radiohead,4Z8W4fKeB5YxbusRsdQVPb,0.0297,0.134,1,0.202,2,0.454,-12.592,0.167,0.102,0.229,73.552
+"In Between Days - Live At The Palace, Auburn Hills, Michigan",4uexN8lwDjGX5SQycpz97I,43,192800,Show,0oi8Xnmhy3lMsSlpeoXvmP,The Cure,7bu3H8JO7d0UbMoVzbo70s,0.0386,0.539,1,0.978,2,0.457,-12.951,0.164,0.0591,0.729,145.139
+Anunciação,5J3DeezIqZISizEQ3Uwf6t,11,235451,Ainda Há Coração,5QCLEwp8fQObWmb5s7FmYN,Luiza Lian,0mqrSBamArf14pPZE2Q9kW,0.0361,0.168,1,0.297,7,0.536,-9.326,0.0409,0.00194,0.68,107.512
+Love Will Tear Us Apart,2JO3HwMRPeya8bXbtbyPcf,73,206866,The Best Of,0p8Zy0wEzDYiFDcSt07UHe,Joy Division,432R46LaYsJZV2Gmc4jUV5,0.0511,0.909,1,0.135,2,0.443,-6.198,5.24e-05,0.825,0.956,146.754
+What a Pleasure,5nnuMMrPgKJRxUqbU86fvv,5,152684,What a Pleasure,0azt3hFbLfQ6KWhjMPZOEe,Beach Fossils,1bwUhKRmEkOZ1wuTnV9XjC,0.0652,0.877,1,0.32,2,0.523,-4.362,0.000176,0.929,0.938,152.009
+My Sweet Lord,1chu8wc9zbNqTQ2ahROys1,19,281226,All Things Must Pass (Remastered),16YCkHew4MBxGtpqkCTx6M,George Harrison,7FIoB5PHdrMZVC3q2HE5MS,0.0333,0.542,0,0.0839,1,0.537,-8.935,0.0705,0.0,0.685,120.965
+"Pequenas Expectativas, Menores Decepções",0HokepMGsRsurOFHXilpxt,15,301088,E A Terra Nunca Me Pareceu Tão Distante,0fvdDToJu17ocdwIuwwwlD,E A Terra Nunca Me Pareceu Tão Distante,218I9kMt3PFXsTsEMOhASh,0.0636,0.112,1,0.15,9,0.429,-8.268,0.0269,0.693,0.813,114.057
+First Breath After Coma,0QZms9dxoA0QlAjno2WHgb,36,574000,The Earth Is Not a Cold Dead Place,3lLwFslntPTc7cBofBXXDp,Explosions In The Sky,1uQWmt1OhuHGRKmZ2ZcL6p,0.0304,0.0535,1,0.267,4,0.335,-13.322,0.0188,0.7,0.472,118.745
+Time Moves Slowly (feat. Samuel T. Herring),5dzCLmga8b5wBFzneVhoRz,0,273864,Time Moves Slow (feat. Sam Herring) b/w Speaking Gently,2OgoZg94d5zVgp07PrNfqt,BADBADNOTGOOD,65dGLGjkw3UbddUg2GKQoZ,0.054,0.331,0,0.102,11,0.612,-10.916,0.479,0.0357,0.375,139.93
+Breathe (In the Air),2ctvdKmETyOzPb2GiJJT53,70,169534,The Dark Side of the Moon,4LH4d3cOWNNsVw41Gqt2kv,Pink Floyd,0k17h0D3J5VfsdmQ1iZtE9,0.0347,0.258,0,0.143,11,0.431,-15.142,0.391,0.721,0.375,128.153
+O Arrependimento,78pkX7cIa2rZ4zpcaRlEyx,17,244635,Quarup,5RTgOVM8NoQBRuQelJRUbm,Lupe De Lupe,6yz8H2Aks1bHaKNiHCutaR,0.036,0.869,1,0.285,9,0.39,-5.772,0.0812,0.481,0.829,80.037
+Money,4iWuv4YvZZJZpx1D7QNLDy,2,233639,Portamento,1NAjWuELiyrM0RoQfNbHWb,The Drums,0p5axeJsbtTCXBrRVoKjwu,0.0636,0.44,1,0.285,7,0.608,-6.548,0.227,0.25,0.923,102.476
+Everybody Wants To Rule The World,40dJCw4xU6Bd5ie9rfagNo,27,251480,Songs From The Big Chair,4yaypP8ytl2ghM2kiNSD8a,Tears For Fears,4bthk9UfsYUYdcFyqxmSUU,0.0583,0.552,1,0.107,7,0.637,-11.345,0.363,0.00451,0.811,112.053
+Losing My Religion,2wVXSc0IrQVodHESUxVUJA,17,268426,Out Of Time (25th Anniversary Edition),68p5SQdcakYH65NEjiF6t4,R.E.M.,4KWTAlx2RvbpseOGMEmROg,0.029,0.807,0,0.1,9,0.664,-4.996,0.174,0.0,0.852,125.632
+Teen Age Riot (Live),2kmKrPOcHC0mDRa4UNHEeA,21,278200,Daydream Nation (Deluxe Edition),23O4F21GDWiGd33tFN3ZgI,Sonic Youth,5UqTO8smerMvxHYA5xsXb6,0.0804,0.272,0,0.416,9,0.283,-6.89,0.272,0.783,0.971,164.915
+Mario De Andrade / Selvagem,7ENRtaIb69DqjadQ0hHHf3,32,267200,Manual,3THs8EgoGs9oSKahSlN4yP,Boogarins,0ohvsn0lgt51qZUbu9ct4s,0.0388,0.29,0,0.309,1,0.312,-6.723,0.000417,0.195,0.797,130.846
+Carnaval,5zcABSIr5SR7026j94zl6u,35,310590,Ventre,0y9FnoBQGAodwsdcWaGc5J,Ventre,28BjOrIYRRrqbxk6umSQEz,0.0327,0.143,1,0.115,0,0.282,-7.209,0.264,0.00981,0.622,145.178
+Culpa,5GvNQ3SpfsB7RVyuzSmxJL,51,168320,Melhor do Que Parece,7nf6cMzbnj1BqhY5VBwT16,O Terno,2TuVzZPwEPqpstqmA0qLl6,0.0332,0.888,0,0.189,8,0.737,-7.465,0.438,4.05e-06,0.725,115.104
+Peixe Voador,2N0uTPu5Y6PCWjr0KGiPRF,10,334940,Planar Sobre o Invisível - Single,4QpG8hnhDC1ItgCtKLr3tS,Kalouv,78BVSBIY1tWrp9l2ti2gPq,0.0278,0.22,1,0.105,0,0.5,-9.806,0.537,0.509,0.49,114.978
+Shuva,3DIpPZoXLv642JOYmVLZ0C,19,230060,Sobre a Vida em Comunidade,1FrHR6Un5b9ElOU0luwx0d,Mahmed,7rDPvQHBXn9NFLGejBsjVD,0.0661,0.366,1,0.187,9,0.441,-6.25,0.00691,0.812,0.575,183.66
+Mistério do Planeta,3TAMiM8XFmU9vFd333pgRh,59,217960,Acabou Chorare,5pIlMNPZh4D9iJSoCfMzGi,Novos Baianos,2ohBjgFT9V0LRDWO2wF9DJ,0.0891,0.683,0,0.083,1,0.61,-8.399,0.8,2.52e-05,0.495,146.878
+James Brown,21QIUV4JxFRym3XDhUxO52,43,200680,Cage The Elephant,0KcRX7YkMZ4mwOkEiCb9zw,Cage The Elephant,26T3LtbuGT1Fu9m0eRq5X3,0.0381,0.786,0,0.187,10,0.409,-3.119,0.000527,0.0,0.966,143.091
+Mudo,0lcM9Sj3DGZRiozij2s55N,27,243000,Pineal,4V7bEy8Wq977L3ePq9sRvH,Tagore,6jesZl7rJFJZ8d5i9pX5q8,0.0545,0.433,1,0.0605,7,0.488,-5.126,0.0522,0.72,0.94,122.008
+Me Deixa Em Paz,2pmcKFRjLZzyHrodUPr7sD,0,129533,Elis,6L6JBAGdEHv8cbrYiF1WNO,Elis Regina,0yFvXd36g5sNKYDi0Kkvl8,0.0445,0.931,1,0.0762,0,0.711,-10.848,0.62,0.00409,0.579,108.4
+Chamber Of Reflection,1MJ5f5EYBC92ADD6xcz7nb,75,231723,Salad Days,1l9d1Zj9Iv2eOcdObVhdMy,Mac DeMarco,3Sz7ZnJQBIHsXLUSo0OQtM,0.0929,0.505,1,0.102,11,0.537,-8.678,0.263,0.91,0.558,131.037
+Escorbuto,2Ax53sStvM9B0OIT9OH2DO,8,183620,Encharcado,1kIB5cMFwi7la0MrN4eGNe,Ciro e a Cidade,4JmjiyfRxKWR07QPTZwL6V,0.0394,0.813,0,0.241,11,0.612,-8.884,0.604,0.00547,0.736,133.214
+Once in a Lifetime - 2005 Remaster,38Ngied9rBORlAbLYNCl4k,71,259906,Remain in Light (Deluxe Version),3AQgdwMNCiN7awXch5fAaG,Talking Heads,2x9SpqnPi8rlE9pjHBwmSC,0.0561,0.871,1,0.622,2,0.644,-6.289,0.181,0.134,0.919,117.459
+"Desculpe, Babe",2Cq8BPuuisTlg8u7kZV8pC,0,168920,"""A Divina Comédia Ou Ando Meio Desligado""",5WPW2N7iOGrLVgsNIsmW6Z,Os Mutantes,5C0gCCG8N5Dh5dZytIgzLX,0.0272,0.572,1,0.0941,2,0.575,-5.693,0.389,0.0,0.53,111.094
+Benzin,5JYSlt9iKSWrGWt16trfMZ,42,250373,Manual,3THs8EgoGs9oSKahSlN4yP,Boogarins,0ohvsn0lgt51qZUbu9ct4s,0.0265,0.362,1,0.627,9,0.492,-8.008,0.281,0.0822,0.611,128.069
+Oração Ao Tempo - Remixed Original Album,3AqZSr9UzhftkTiEXSNqrU,0,206906,Cinema Transcendental,2JrUXr6ixN71Juy9cEQdlk,Caetano Veloso,7HGNYPmbDrMkylWqeFCOIQ,0.0492,0.691,1,0.0773,2,0.637,-13.284,0.838,0.000523,0.226,152.37
