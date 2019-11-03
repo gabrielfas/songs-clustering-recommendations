@@ -19,7 +19,7 @@ A content-based music recommendation system based on cluster analysis
 
 - After collecting the datasets, you can use the [Cluster songs](https://github.com/gabrielfas/songs_clustering_recommendations/blob/master/Cluster%20songs.ipynb) notebook passing both the train dataset (to train the clusters) and the users dataset (to predict the clusters and make recommendations).
 
-### Requierements
+### Requirements
 
 - Python 3.7
 - Jupyter Notebook
