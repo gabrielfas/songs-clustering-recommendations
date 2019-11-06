@@ -183,6 +183,8 @@ class SpotifySession:
             query, trackids = trackids[:local_limit], trackids[local_limit:]
             if np.nan in query:
                 query.remove(np.nan)
+            if None in query:
+                query.remove(None)
             feat = self._session.audio_features(query)
             ffeat = list(self._filter_audio_features(feat))
             all_feat.extend(ffeat)
